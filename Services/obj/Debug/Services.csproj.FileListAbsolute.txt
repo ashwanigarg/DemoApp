@@ -1,0 +1,21 @@
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services\bin\Services.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services\bin\Services.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services\bin\JIRA.Domain.Interfaces.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services\bin\JIRA.Domain.Models.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services\bin\JIRA.Domain.Interfaces.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services\bin\JIRA.Domain.Models.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services\obj\Debug\Services.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services\obj\Debug\Services.pdb
+E:\RegistrationAndLoginP2\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\RegistrationAndLoginP2\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+E:\RegistrationAndLoginP2\Services\obj\Debug\Services.dll
+E:\RegistrationAndLoginP2\Services\obj\Debug\Services.pdb
+E:\RegistrationAndLoginP2\Services\bin\Services.dll
+E:\RegistrationAndLoginP2\Services\bin\Services.pdb
+E:\RegistrationAndLoginP2\Services\bin\DataAccessLayer.dll
+E:\RegistrationAndLoginP2\Services\bin\Domain.Models.dll
+E:\RegistrationAndLoginP2\Services\bin\Services.Interfaces.dll
+E:\RegistrationAndLoginP2\Services\bin\DataAccessLayer.pdb
+E:\RegistrationAndLoginP2\Services\bin\Domain.Models.pdb
+E:\RegistrationAndLoginP2\Services\bin\Services.Interfaces.pdb

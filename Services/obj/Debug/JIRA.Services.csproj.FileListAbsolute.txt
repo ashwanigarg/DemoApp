@@ -1,0 +1,22 @@
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\JIRA.Services\bin\JIRA.Services.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\JIRA.Services\bin\JIRA.Services.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\JIRA.Services\bin\DataAccessLayer.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\JIRA.Services\bin\JIRA.Domain.Models.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\JIRA.Services\bin\JIRA.Services.Interfaces.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\JIRA.Services\bin\DataAccessLayer.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\JIRA.Services\bin\JIRA.Domain.Models.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\JIRA.Services\bin\JIRA.Services.Interfaces.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\JIRA.Services\obj\Debug\JIRA.Services.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\JIRA.Services\obj\Debug\JIRA.Services.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\JIRA.Services\obj\Debug\JIRA.Services.pdb
+C:\Users\EhsanS.SNL\Downloads\JIRA\JIRA.Services\bin\JIRA.Services.dll
+C:\Users\EhsanS.SNL\Downloads\JIRA\JIRA.Services\bin\JIRA.Services.pdb
+C:\Users\EhsanS.SNL\Downloads\JIRA\JIRA.Services\bin\DataAccessLayer.dll
+C:\Users\EhsanS.SNL\Downloads\JIRA\JIRA.Services\bin\JIRA.Domain.Models.dll
+C:\Users\EhsanS.SNL\Downloads\JIRA\JIRA.Services\bin\JIRA.Services.Interfaces.dll
+C:\Users\EhsanS.SNL\Downloads\JIRA\JIRA.Services\bin\DataAccessLayer.pdb
+C:\Users\EhsanS.SNL\Downloads\JIRA\JIRA.Services\bin\JIRA.Domain.Models.pdb
+C:\Users\EhsanS.SNL\Downloads\JIRA\JIRA.Services\bin\JIRA.Services.Interfaces.pdb
+C:\Users\EhsanS.SNL\Downloads\JIRA\JIRA.Services\obj\Debug\JIRA.Services.csprojResolveAssemblyReference.cache
+C:\Users\EhsanS.SNL\Downloads\JIRA\JIRA.Services\obj\Debug\JIRA.Services.dll
+C:\Users\EhsanS.SNL\Downloads\JIRA\JIRA.Services\obj\Debug\JIRA.Services.pdb

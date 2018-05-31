@@ -1,0 +1,6 @@
+E:\RegistrationAndLoginP2\Domain.Models\bin\Debug\Domain.Models.dll
+E:\RegistrationAndLoginP2\Domain.Models\bin\Debug\Domain.Models.pdb
+E:\RegistrationAndLoginP2\Domain.Models\obj\Debug\Domain.Models.csproj.CoreCompileInputs.cache
+E:\RegistrationAndLoginP2\Domain.Models\obj\Debug\Domain.Models.dll
+E:\RegistrationAndLoginP2\Domain.Models\obj\Debug\Domain.Models.pdb
+E:\RegistrationAndLoginP2\Domain.Models\obj\Debug\Domain.Models.csprojResolveAssemblyReference.cache

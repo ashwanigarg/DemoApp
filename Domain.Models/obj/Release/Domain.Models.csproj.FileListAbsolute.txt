@@ -1,0 +1,5 @@
+E:\RegistrationAndLoginP2\Domain.Models\bin\Release\Domain.Models.dll
+E:\RegistrationAndLoginP2\Domain.Models\bin\Release\Domain.Models.pdb
+E:\RegistrationAndLoginP2\Domain.Models\obj\Release\Domain.Models.csproj.CoreCompileInputs.cache
+E:\RegistrationAndLoginP2\Domain.Models\obj\Release\Domain.Models.dll
+E:\RegistrationAndLoginP2\Domain.Models\obj\Release\Domain.Models.pdb

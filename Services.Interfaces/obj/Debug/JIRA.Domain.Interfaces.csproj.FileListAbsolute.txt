@@ -1,0 +1,7 @@
+c:\Users\Dell\documents\visual studio 2012\Projects\JIRA\Domain.Interfaces\obj\Debug\JIRA.Domain.Interfaces.csprojResolveAssemblyReference.cache
+c:\Users\Dell\documents\visual studio 2012\Projects\JIRA\Domain.Interfaces\bin\Debug\JIRA.Domain.Models.dll
+c:\Users\Dell\documents\visual studio 2012\Projects\JIRA\Domain.Interfaces\bin\Debug\JIRA.Domain.Models.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Domain.Interfaces\bin\Debug\JIRA.Services.Interfaces.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Domain.Interfaces\bin\Debug\JIRA.Services.Interfaces.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Domain.Interfaces\obj\Debug\JIRA.Services.Interfaces.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Domain.Interfaces\obj\Debug\JIRA.Services.Interfaces.pdb

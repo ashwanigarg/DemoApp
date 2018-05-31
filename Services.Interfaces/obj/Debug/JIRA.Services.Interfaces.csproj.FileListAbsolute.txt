@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services.Interfaces\bin\Debug\JIRA.Services.Interfaces.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services.Interfaces\bin\Debug\JIRA.Services.Interfaces.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services.Interfaces\bin\Debug\JIRA.Domain.Models.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services.Interfaces\bin\Debug\JIRA.Domain.Models.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services.Interfaces\obj\Debug\JIRA.Services.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services.Interfaces\obj\Debug\JIRA.Services.Interfaces.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Services.Interfaces\obj\Debug\JIRA.Services.Interfaces.pdb
+C:\Users\EhsanS.SNL\Downloads\JIRA\Services.Interfaces\bin\Debug\JIRA.Services.Interfaces.dll
+C:\Users\EhsanS.SNL\Downloads\JIRA\Services.Interfaces\bin\Debug\JIRA.Services.Interfaces.pdb
+C:\Users\EhsanS.SNL\Downloads\JIRA\Services.Interfaces\bin\Debug\JIRA.Domain.Models.dll
+C:\Users\EhsanS.SNL\Downloads\JIRA\Services.Interfaces\bin\Debug\JIRA.Domain.Models.pdb
+C:\Users\EhsanS.SNL\Downloads\JIRA\Services.Interfaces\obj\Debug\JIRA.Services.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\EhsanS.SNL\Downloads\JIRA\Services.Interfaces\obj\Debug\JIRA.Services.Interfaces.dll
+C:\Users\EhsanS.SNL\Downloads\JIRA\Services.Interfaces\obj\Debug\JIRA.Services.Interfaces.pdb

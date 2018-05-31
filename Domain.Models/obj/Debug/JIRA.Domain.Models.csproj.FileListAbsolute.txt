@@ -1,0 +1,9 @@
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Domain.Models\bin\Debug\JIRA.Domain.Models.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Domain.Models\bin\Debug\JIRA.Domain.Models.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Domain.Models\obj\Debug\JIRA.Domain.Models.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Domain.Models\obj\Debug\JIRA.Domain.Models.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\Domain.Models\obj\Debug\JIRA.Domain.Models.csprojResolveAssemblyReference.cache
+C:\Users\EhsanS.SNL\Downloads\JIRA\Domain.Models\bin\Debug\JIRA.Domain.Models.dll
+C:\Users\EhsanS.SNL\Downloads\JIRA\Domain.Models\bin\Debug\JIRA.Domain.Models.pdb
+C:\Users\EhsanS.SNL\Downloads\JIRA\Domain.Models\obj\Debug\JIRA.Domain.Models.dll
+C:\Users\EhsanS.SNL\Downloads\JIRA\Domain.Models\obj\Debug\JIRA.Domain.Models.pdb

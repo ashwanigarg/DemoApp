@@ -1,0 +1,8 @@
+E:\RegistrationAndLoginP2\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\RegistrationAndLoginP2\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\RegistrationAndLoginP2\DataAccessLayer\bin\Release\Domain.Models.dll
+E:\RegistrationAndLoginP2\DataAccessLayer\bin\Release\Domain.Models.pdb
+E:\RegistrationAndLoginP2\DataAccessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\RegistrationAndLoginP2\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\RegistrationAndLoginP2\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\RegistrationAndLoginP2\DataAccessLayer\obj\Release\DataAccessLayer.pdb

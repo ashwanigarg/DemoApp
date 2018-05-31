@@ -1,0 +1,12 @@
+E:\RegistrationAndLoginP2\Services\bin\Services.dll
+E:\RegistrationAndLoginP2\Services\bin\Services.pdb
+E:\RegistrationAndLoginP2\Services\bin\DataAccessLayer.dll
+E:\RegistrationAndLoginP2\Services\bin\Domain.Models.dll
+E:\RegistrationAndLoginP2\Services\bin\Services.Interfaces.dll
+E:\RegistrationAndLoginP2\Services\bin\DataAccessLayer.pdb
+E:\RegistrationAndLoginP2\Services\bin\Domain.Models.pdb
+E:\RegistrationAndLoginP2\Services\bin\Services.Interfaces.pdb
+E:\RegistrationAndLoginP2\Services\obj\Release\Services.csprojResolveAssemblyReference.cache
+E:\RegistrationAndLoginP2\Services\obj\Release\Services.csproj.CoreCompileInputs.cache
+E:\RegistrationAndLoginP2\Services\obj\Release\Services.dll
+E:\RegistrationAndLoginP2\Services\obj\Release\Services.pdb

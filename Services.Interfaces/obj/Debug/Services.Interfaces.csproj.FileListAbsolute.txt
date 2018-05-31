@@ -1,0 +1,8 @@
+E:\RegistrationAndLoginP2\Services.Interfaces\bin\Debug\Services.Interfaces.dll
+E:\RegistrationAndLoginP2\Services.Interfaces\bin\Debug\Services.Interfaces.pdb
+E:\RegistrationAndLoginP2\Services.Interfaces\bin\Debug\Domain.Models.dll
+E:\RegistrationAndLoginP2\Services.Interfaces\bin\Debug\Domain.Models.pdb
+E:\RegistrationAndLoginP2\Services.Interfaces\obj\Debug\Services.Interfaces.csprojResolveAssemblyReference.cache
+E:\RegistrationAndLoginP2\Services.Interfaces\obj\Debug\Services.Interfaces.csproj.CoreCompileInputs.cache
+E:\RegistrationAndLoginP2\Services.Interfaces\obj\Debug\Services.Interfaces.dll
+E:\RegistrationAndLoginP2\Services.Interfaces\obj\Debug\Services.Interfaces.pdb

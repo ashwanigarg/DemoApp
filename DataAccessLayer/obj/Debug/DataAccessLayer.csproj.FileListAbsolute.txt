@@ -1,0 +1,22 @@
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\DataAccessLayer\bin\Debug\JIRA.Domain.Models.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\DataAccessLayer\bin\Debug\JIRA.Domain.Models.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\JIRA\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\EhsanS.SNL\Downloads\JIRA\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\EhsanS.SNL\Downloads\JIRA\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\EhsanS.SNL\Downloads\JIRA\DataAccessLayer\bin\Debug\JIRA.Domain.Models.dll
+C:\Users\EhsanS.SNL\Downloads\JIRA\DataAccessLayer\bin\Debug\JIRA.Domain.Models.pdb
+C:\Users\EhsanS.SNL\Downloads\JIRA\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\EhsanS.SNL\Downloads\JIRA\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\EhsanS.SNL\Downloads\JIRA\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\RegistrationAndLoginP2\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\RegistrationAndLoginP2\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\RegistrationAndLoginP2\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\RegistrationAndLoginP2\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\RegistrationAndLoginP2\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\RegistrationAndLoginP2\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\RegistrationAndLoginP2\DataAccessLayer\bin\Debug\Domain.Models.dll
+E:\RegistrationAndLoginP2\DataAccessLayer\bin\Debug\Domain.Models.pdb
